@@ -13,7 +13,7 @@
     "aurelia-fetch-client": "^1.8.2",
     "highlight.js": "^9.15.8",
     "markdown-it": "^8.4.2",
-    "markdown-it-highlightjs": "^3.0.0",
+    "markdown-it-highlightjs": "^3.3.1",
     "pdfobject": "^2.1.1",
     "showdown": "^1.9.0",
     "showdown-highlight": "^2.1.3"
